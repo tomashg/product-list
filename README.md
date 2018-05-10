@@ -1,6 +1,7 @@
 # product-list
 Instalacja:
 Nazwa bazy danych: shop
+
 php artisan migrate
 
 
